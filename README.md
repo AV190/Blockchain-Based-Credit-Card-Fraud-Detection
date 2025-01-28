@@ -36,7 +36,8 @@ https://www.kaggle.com/datasets/kartik2112/fraud-detection
 # Backend
 Download ganache and metamask app and proceed with its installation
 
-go to the project directory(backend) and run python .\index.py
+go to the project directory(backend) and run 
+### `python .\index.py`
 
 
 # Getting Started with Create React App
