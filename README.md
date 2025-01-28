@@ -2,11 +2,35 @@
 
 This project proposes a hybrid framework combining advanced machine learning models and blockchain technology to combat credit card fraud. It integrates CNNs (TensorFlow/Keras) and decision trees for high-accuracy fraud detection, with data preprocessing handled by Pandas, NumPy, and Pickle. Blockchain (Ethereum, Hyperledger Fabric) and Solidity smart contracts ensure secure, tamper-proof storage of flagged transactions and automate card blocking for recurring fraud. Utilizing Web3.py, Flask APIs, React frontend, and Flask-CORS, the system enables real-time monitoring, robust fraud detection, and decentralized transparency, offering a scalable solution for financial security.
 
+### Key Points of the Project:
+
+1. **Objective**: Develop a robust, secure, and efficient credit card fraud detection system.
+
+2. **Technology Integration**:
+   - **Machine Learning**: Utilizes advanced models like Convolutional Neural Networks (CNNs) and decision tree ensembles for accurate fraud detection.
+   - **Blockchain**: Implements a decentralized, tamper-proof ledger to securely record all transactions, ensuring transparency and accountability.
+
+3. **Real-Time Processing**:
+   - Processes transactional data in real time.
+   - Uses sophisticated algorithms to predict the likelihood of fraudulent activity.
+
+4. **Data Integrity and Security**:
+   - Ensures trust, traceability, and integrity by securely documenting every transaction on the blockchain.
+   - Prevents alterations or deletions of transaction records.
+
+5. **Benefits**:
+   - Reduces false positives in fraud detection.
+   - Enhances fraud detection accuracy.
+   - Provides a reliable and comprehensive framework to safeguard financial transactions.
+
+6. **Impact**:
+   - Addresses major challenges in financial security.
+   - Protects both financial institutions and consumers from the growing threat of credit card fraud.
 
 # Backend
-download ganache and metamask app and proceed with its installation
+Download ganache and metamask app and proceed with its installation
 
-
+go to the project directory and run python .\index.py
 
 
 # Getting Started with Create React App
