@@ -26,6 +26,12 @@ This project proposes a hybrid framework combining advanced machine learning mod
 6. **Impact**:
    - Addresses major challenges in financial security.
    - Protects both financial institutions and consumers from the growing threat of credit card fraud.
+  
+
+# Dataset
+you can find the datset in kaggle.com
+https://www.kaggle.com/datasets/kartik2112/fraud-detection
+
 
 # Backend
 Download ganache and metamask app and proceed with its installation
