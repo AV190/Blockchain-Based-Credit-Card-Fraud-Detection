@@ -1,1 +1,3 @@
 # Blockchain-Based-Credit-Card-Fraud-Detection
+
+#This project proposes a hybrid framework combining advanced machine learning models and blockchain technology to combat credit card fraud. It integrates CNNs (TensorFlow/Keras) and decision trees for high-accuracy fraud detection, with data preprocessing handled by Pandas, NumPy, and Pickle. Blockchain (Ethereum, Hyperledger Fabric) and Solidity smart contracts ensure secure, tamper-proof storage of flagged transactions and automate card blocking for recurring fraud. Utilizing Web3.py, Flask APIs, React frontend, and Flask-CORS, the system enables real-time monitoring, robust fraud detection, and decentralized transparency, offering a scalable solution for financial security.
